@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1454074590 source:c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"processFile.h"
+	"linkedList.h"
+	"alarm.h"
+
+1454075029 source:c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\processfile.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"processFile.h"
+
+1454075649 c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\processfile.h
+
+1453987777 source:c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\linkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"processFile.h"
+	"linkedList.h"
+	"alarm.h"
+
+1454075867 c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\linkedlist.h
+
+1454060466 source:c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\alarm.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"processFile.h"
+	"linkedList.h"
+	"alarm.h"
+
+1453990279 c:\users\snikola\desktop\eclipse c programing\alarmaplikacija0\alarm.h
+
